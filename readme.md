@@ -29,6 +29,6 @@ This project was created to practice basic Java concepts such as methods, loops,
 1. Make sure Java is installed on your system.
 2. Open a terminal or command prompt.
 3. Navigate to the project directory.
-4. Compile the program:
-   ```bash
+4. Compile the program
    javac src/Main.java
+
